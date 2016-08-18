@@ -1,7 +1,7 @@
 
 # redux spike
 
-it's a real sweet app
+it's a real sweet app!
 
 ## how
 
